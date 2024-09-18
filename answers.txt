@@ -14,3 +14,9 @@ can apply to basically any health care application that utilizes a lot of
 data. Many of these applications are in regards to diseases and medicines 
 that are tracked based on patient data.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Git merge combines the history of both branches that you are merging 
+and merges them onto a single branch. Git rebase rewrites the history of the 
+new branch by ordering the changes of both branches together, making the 
+rebased branch's history more organized and linear.
